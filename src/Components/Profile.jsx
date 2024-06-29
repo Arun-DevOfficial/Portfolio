@@ -10,7 +10,7 @@ import { TiSocialLinkedinCircular } from "react-icons/ti";
 
 export default function Profile() {
   return (
-    <aside className="bg-[#1e1e1f] max-w-sm rounded-xl border border-white/20 shadow-md text-white p-6 sm:p-8 md:p-10 sticky top-32">
+    <aside className="bg-[#1e1e1f] max-w-sm rounded-xl border border-white/20 shadow-md text-white p-6 sm:p-8 md:p-10 sticky top-14">
       <div className="flex flex-col items-center text-center gap-6">
         <div className="flex flex-col items-center gap-4">
           <div className="bg-[#383839] p-[1px] rounded-3xl h-36 w-36">
