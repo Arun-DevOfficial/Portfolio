@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <section className="bg-[#121212] min-h-screen">
-        <div className="flex gap-3 justify-center items-center min-h-screen">
+        <div className="flex gap-7 justify-center items-center min-h-screen">
           <Profile />
           <Outlet />
         </div>
