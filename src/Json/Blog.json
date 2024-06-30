@@ -1,0 +1,39 @@
+[
+    {
+      "blog_image": "https://blog.logrocket.com/wp-content/uploads/2021/02/MERN-stack-complete-guide-nocdn.jpeg",
+      "blog_date": "2024-06-30",
+      "blog_title": "Introduction to MERN Stack",
+      "blog_description": "A beginner's guide to the MERN stack."
+    },
+    {
+      "blog_image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247717846/original/7ea631ad521a8a04e9f62d567aded26737b24151/develop-mern-stack-website-for-you.jpg",
+      "blog_date": "2024-06-29",
+      "blog_title": "Building REST APIs with Express.js",
+      "blog_description": "Learn how to create RESTful APIs using Express.js."
+    },
+    {
+      "blog_image": "https://cdn.dribbble.com/users/9044012/screenshots/18099226/media/3ed0543b50ce11ecff469fc923b88879.png?resize=400x0",
+      "blog_date": "2024-06-28",
+      "blog_title": "React.js for Modern Web Applications",
+      "blog_description": "Using React.js to build dynamic user interfaces."
+    },
+    {
+      "blog_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tDqWuNdv2HpKkd-LQ1o0M4r0fguN2kB1Pw&s",
+      "blog_date": "2024-06-27",
+      "blog_title": "Managing Data with MongoDB",
+      "blog_description": "How to handle data storage and retrieval using MongoDB."
+    },
+    {
+      "blog_image": "https://dianapps.com/blog/wp-content/uploads/2022/12/Untitled-design-5-1.png",
+      "blog_date": "2024-06-26",
+      "blog_title": "Node.js for Backend Development",
+      "blog_description": "Using Node.js to create efficient server-side applications."
+    },
+    {
+      "blog_image": "https://www.koyeb.com/static/images/illustrations/og/get-started-with-the-mern-stack.png",
+      "blog_date": "2024-06-25",
+      "blog_title": "Full-Stack Development with MERN",
+      "blog_description": "Building a complete web application using the MERN stack."
+    }
+  ]
+  
